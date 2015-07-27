@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCDMethods", "GCDMethods\GCDMethods.csproj", "{390EDD7C-D558-4157-B906-0BE07B31CF75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCDApplic", "GCDApplic\GCDApplic.csproj", "{33471BB4-811F-4685-8A74-7A5EAB210141}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGCDMethods", "TestGCDMethods\TestGCDMethods.csproj", "{F651A1DF-07BF-4FD6-9D1B-7921D9A56A25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{390EDD7C-D558-4157-B906-0BE07B31CF75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{390EDD7C-D558-4157-B906-0BE07B31CF75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{390EDD7C-D558-4157-B906-0BE07B31CF75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{390EDD7C-D558-4157-B906-0BE07B31CF75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33471BB4-811F-4685-8A74-7A5EAB210141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33471BB4-811F-4685-8A74-7A5EAB210141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33471BB4-811F-4685-8A74-7A5EAB210141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33471BB4-811F-4685-8A74-7A5EAB210141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F651A1DF-07BF-4FD6-9D1B-7921D9A56A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F651A1DF-07BF-4FD6-9D1B-7921D9A56A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F651A1DF-07BF-4FD6-9D1B-7921D9A56A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F651A1DF-07BF-4FD6-9D1B-7921D9A56A25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
